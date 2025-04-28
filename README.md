@@ -3,9 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=software+Developer" alt="Typing SVG" />
 </p>
-
----
-
 - 🔭 <strong>I’m currently working on:</strong>  
   Exciting web, mobile, and backend development projects.
 
@@ -31,11 +28,8 @@
 - ⚡ <strong>Fun fact:</strong>  
   Coding is my superpower! 🦸‍♂️  
   I work under pressure (1000 PSI)
-
 ---
-
 ### 🛠️ <strong>Tech Stack I Use</strong>
-
 #### 🚀 Languages:
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
