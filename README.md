@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋 I'm <strong>Menyar Debbebbi</strong> ( <strong>PIKABOSS</strong>)</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=software+Developer" alt="Typing SVG" />
 </p>
@@ -31,7 +30,6 @@
 <h2 align="center">🚀 Tech Stack I Use</h2>
 
 <hr>
-
 ### 🎨 Frontend Development
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -46,9 +44,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
-
 ---
-
 ### 🛠️ Backend Development
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -98,11 +94,6 @@
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
   <img src="https://img.shields.io/badge/CanvasJS-FF6F00?style=for-the-badge&logo=canvas&logoColor=white" alt="CanvasJS" />
 </p>
-
----
-
-
-
 
 ---
 
