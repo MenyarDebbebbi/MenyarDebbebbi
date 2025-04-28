@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm <strong>Menyar Debbebbi</strong> ( <strong>PIKABOSS</strong>)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=software+Developer;Coding+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=software+Developer" alt="Typing SVG" />
 </p>
 
 ---
