@@ -1,47 +1,43 @@
-## Hi there 👋 I'm Menyar Debbebbi
-
-Welcome to my GitHub profile!  
-I'm passionate about computer science and technology. Here’s a little bit about me:
-
----
+Hi there 👋 I'm Menyar Debbebbi (PIKABOSS)
 
 - 🔭 I’m currently working on:  
-  Building modern web and mobile applications.
+  Exciting web, mobile, and backend development projects.
 
 - 🌱 I’m currently learning:  
-  Advanced full-stack development, cloud technologies, and AI.
+  Always exploring new technologies and best practices.
 
 - 👯 I’m looking to collaborate on:  
-  Open-source projects related to web development, AI, and software engineering.
+  Web development, open-source, AI, and software engineering projects.
 
 - 🤔 I’m looking for help with:  
-  Mastering DevOps practices and contributing to impactful open-source projects.
+  Improving my DevOps skills and mastering large-scale system architecture.
 
 - 💬 Ask me about:  
-  Web development, problem solving, software design, and programming competitions.
+  Web development, software engineering, algorithms, and tech communities.
 
 - 📫 How to reach me:  
-  - Email: [your.email@example.com]  
-  - LinkedIn: [your LinkedIn profile link]  
-  - Portfolio: [your portfolio link if you have one]
+  - Email: [Menyardebbebi14@gmail.com]
+  - LinkedIn:(https://www.linkedin.com/in/debbebi-menyar-719973224/)
+  - Portfolio:(https://menyar-debbebi.netlify.app/)
 
-- 😄 Pronouns:  
-  He/Him
+- 😄 Pronouns:Bug Hunter 🔍
 
 - ⚡ Fun fact:  
-  I love solving algorithms challenges and mentoring future developers!
+  Coding is my superpower! 🦸‍♂️
+  I work under pressure (1000 PSI)
+
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, PHP, Java
-- **Frontend:** React.js, Vue.js, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js, Django, Laravel
-- **Database:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, GitHub, Docker, Figma
+### 🛠️ Tech Stack I Use
+- **Languages:** [Ex: JavaScript, Python, PHP, Java]
+- **Frontend:** [Ex: React.js, Vue.js, HTML5, CSS3, Tailwind CSS]
+- **Backend:** [Ex: Node.js, Django, Laravel, Express.js]
+- **Databases:** [Ex: MySQL, MongoDB, PostgreSQL]
+- **Tools:** [Ex: Git, GitHub, Docker, Figma, Postman]
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad."
+> "Keep pushing your limits and code with passion. 🚀"
 
-Thanks for visiting! 🚀
+Thanks for visiting my profile! 🚀
