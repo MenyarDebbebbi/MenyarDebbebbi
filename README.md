@@ -27,8 +27,9 @@
 - ⚡ <strong>Fun fact:</strong>  
   Coding is my superpower! 🦸‍♂️  
   I work under pressure (1000 PSI)
+  <h2>👀 Visitor Count</h2>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 <h2 align="center">🚀 Tech Stack I Use</h2>
-
 <hr>
 ### 🎨 Frontend Development
 <p align="center">
